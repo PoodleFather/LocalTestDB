@@ -1,0 +1,5 @@
+D:\GitRepository\LocalTestDb\HyunWoo\bin\Debug\HyunWoo.dacpac
+D:\GitRepository\LocalTestDb\HyunWoo\bin\Debug\HyunWoo.dll
+D:\GitRepository\LocalTestDb\HyunWoo\bin\Debug\HyunWoo.pdb
+D:\GitRepository\LocalTestDb\HyunWoo\obj\Debug\HyunWoo.dll
+D:\GitRepository\LocalTestDb\HyunWoo\obj\Debug\HyunWoo.pdb

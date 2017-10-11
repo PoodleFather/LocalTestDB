@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Joiner]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [Name] NVARCHAR(20) NOT NULL, 
+    [SiteUrl] NVARCHAR(50) NOT NULL
+)
